@@ -1,0 +1,29 @@
+#home{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    text-decoration-color: black;
+}
+#courses{
+    background-color: black;
+    font-style: normal;
+    text-align: center;
+    text-decoration-color: antiquewhite;
+     
+}
+#feedback{
+    background-color: blue;
+    font-family: inherit;
+    text-decoration-color: aliceblue;
+    text-align: center;
+
+
+}
+
+#button{
+    color: beige;
+     text-align: justify;
+    text-decoration-color: black;
+    
+}
